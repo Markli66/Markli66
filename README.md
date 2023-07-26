@@ -1,6 +1,4 @@
 ### Hi there Welcome to Mark Space👋
-
-<img src="https://img.shields.io/static/v1?label=Program&message=Java&color=blue"/>
 <a href="https://brolab.top"><img src="https://img.shields.io/static/v1?label=Blog&message=Blog&color=red"/></a>
 </br>
 Busy with CV
